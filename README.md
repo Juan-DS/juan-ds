@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://iili.io/dUQAyzu.png" alt="imagen">
-</p>
+  <img src="https://iili.io/dUQ4P0g.png" alt="imagen">
+</p>  
 
 
 <!--
